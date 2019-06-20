@@ -1,6 +1,6 @@
-# RobocupHanover
+# RobocupHannover
 
-Robocup EM Hanover
+Robocup EM Hannover
 
 ## Tasks:
 * SpeechBot

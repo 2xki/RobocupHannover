@@ -1,0 +1,3 @@
+[submodule "SpeechBot/bSpeech"]
+	path = SpeechBot/bSpeech
+	url = https://github.com/2xki/bSpeech
