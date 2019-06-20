@@ -8,3 +8,5 @@ Robocup EM Hanover
   - WurmBot
   - Braccio
 * Hund
+  - Facedetection
+  
